@@ -24,3 +24,6 @@ coverage.*
 
 # test reports
 testenv.junit.xml
+
+# Local trial environment
+.venv/
